@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "hotel-price-watch": {
+      "url": "https://mcp.apify.com?tools=fetch-actor-details,magnova/hotel-price-watch"
+    }
+  }
+}
